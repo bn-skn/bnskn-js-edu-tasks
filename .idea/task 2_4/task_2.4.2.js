@@ -1,0 +1,2 @@
+ourPlanetName = 'Zemlya';
+currentUserName = 'Alex';
