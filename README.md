@@ -1,4 +1,4 @@
 # Задачи по курсу обучения по JS
 
 ## Оглавление
-- test1.js написание "Hello world!"
+- alert.js написание "Hello world!"
